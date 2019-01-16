@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>올림픽 개최 연도</title>
-    <link href="./css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <?php
